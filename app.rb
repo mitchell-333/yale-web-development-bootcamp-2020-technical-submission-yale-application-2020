@@ -5,7 +5,9 @@ name = "Mitchell Lee"
 age = 22
 favorite_food = "pho"
 
-height_in_inches = 85
+height_in_inches = 66
+
+height_message 
 
 ## Do not modify below this line!
 
