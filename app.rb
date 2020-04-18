@@ -1,7 +1,11 @@
 require_relative './test'
 AVERAGE_HEIGHT_IN_INCHES = 67
 
-# Your Code Here!
+name = "Mitchell Lee"
+age = 22
+favorite_food = "pho"
+
+height_in_inches = 85
 
 ## Do not modify below this line!
 
